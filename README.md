@@ -1,10 +1,3 @@
-Sytstem Programming Project-1
-
-Yunus Emre Çukur
-Hasan Özgür Özdemir
-Sefa Taşdemir
-
-
 # GTK Tabanlı Çoklu Shell Uygulaması – System Programming Project
 
 Bu proje, sistem programlamanın temel konularını (process yönetimi, IPC, shared memory, semaphore) grafik arayüz (GUI) ile birleştirerek birden fazla shell çalıştırmayı amaçlar.
